@@ -1,0 +1,39 @@
+*body{
+	margin: 0px;
+	padding: 0px;
+}
+.titles{
+	color: black;
+	font-size: 52px;
+
+}
+.formdiv{
+	text-align: center;
+	margin-top: 150px;
+	border: 1px solid white;
+	padding-bottom: 30px;
+}
+.formclass input{
+	padding: 20px;
+	padding-left: 70px;
+	padding-right: 70px;
+	border: 1px solid #020215;
+}
+.formclass input:hover{
+	background-color: #cbf1e8;
+}
+.regi{
+	text-align: center;
+	margin-top: 150px;
+	border: 1px solid white;
+	padding-bottom: 30px;
+}
+.formclass2 input{
+	padding: 20px;
+	padding-left: 70px;
+	padding-right: 70px;
+	border: 1px solid #020215;
+}
+.formclass2 input:hover{
+	background-color: #cbf1e8;
+}
